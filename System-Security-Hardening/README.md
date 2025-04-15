@@ -117,18 +117,3 @@
 3. Enable:
    - Tamper Protection
    - Ransomware Protection
-
-## ✅ Task 3: Research Common Vulnerabilities
-
-### 1️⃣ Download CIS Benchmarks for Linux and Windows
-- [CIS Linux Benchmark](https://www.cisecurity.org/benchmark/linux/)
-- [CIS Windows Benchmark](https://www.cisecurity.org/benchmark/windows/)
-
-### 2️⃣ Read about CVE vulnerabilities from:
-- [MITRE CVE List](https://cve.mitre.org/)
-- [NIST Vulnerability Database](https://nvd.nist.gov/)
-
-### 3️⃣ List of 3 Common Security Weaknesses Found
-1. **Default credentials left enabled** – Attackers exploit weak default usernames and passwords.
-2. **Unpatched software vulnerabilities** – Exploiting outdated applications and OS versions.
-3. **Weak acce
